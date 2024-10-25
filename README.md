@@ -20,7 +20,7 @@ An AI-powered simulator that offers personalized online interview experiences. I
 
 ## Live Demo
 
-[https://final-ai-mock-interview.vercel.app](https://final-ai-mock-interview.vercel.app)
+Live demo - [MockInterviewerGPT](https://mock-interviewer-gpt.vercel.app/)
 
 ## Features
 - Secure access with social login or email/password authentication.
