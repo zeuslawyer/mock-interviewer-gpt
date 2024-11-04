@@ -89,7 +89,7 @@ Open the browser and go to `http://localhost:3000`. Ensure that everything is lo
 ## Screenshots
 
 
-<div style="display: flex; justify-content: space-between;">
+<div style="float:left; display: flex; justify-content: space-between;">
   <img src="public/sc1.png" alt="Screenshot 1" style="width: 49%; border: 2px solid black;" />
   <img src="public/sc2.png" alt="Screenshot 2" style="width: 49%; border: 2px solid black;" />
 </div>
