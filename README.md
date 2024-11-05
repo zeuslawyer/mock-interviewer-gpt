@@ -12,11 +12,12 @@ An AI-powered simulator that offers personalized online interview experiences. I
   - [How to run the project](#how-to-run-the-project)
 - [Screenshots](#screenshots)
 - [How to use the application](#how-to-use-the-application)
-- [Use case](#use-case)
+- [Use Cases & Future Enhancements](#use-cases--future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+- [FAQ](#faq)
 
 ## Live Demo
 
@@ -107,6 +108,23 @@ Open the browser and go to `http://localhost:3000`. Ensure that everything is lo
 4. The AI will evaluate the answers and provide you with complete feedback.
 5. History of user interviews is saved on the dashboard and a User can re-attempt the existing interviews from the dashboard as well.
 
+## Use Cases & Future Enhancements
+Here's what you can currently do with MockInterviewerGPT and what’s planned for the future:
+
+**Current Use Cases:**
+- Simulate job interview scenarios with AI-generated questions based on the specified role and experience level.
+- Practice and improve interview responses with instant AI-driven feedback.
+- Track interview history and reattempt previous interviews to measure progress.
+- Suitable for preparing for technical, behavioral, and general interviews.
+
+**Coming Soon:**
+- Add a dashboard to track performance metrics and scoring for each interview attempt.
+- Integration of follow-up question prompts to simulate real interview dynamics.
+- Introduce question customization, allowing users to create and practice with their own questions.
+- Incorporate collaboration features to share interviews with peers or mentors for additional feedback.
+- Gamification elements like badges and achievements for progress tracking.
+- Access to community-generated interview question banks for diverse practice.
+
 
 ## Contributing
 
@@ -130,3 +148,13 @@ This project is licensed under the MIT License - see the [LICENSE file](https://
 ## Contact
 
 Please open an issue in the GitHub repository for any queries or support.
+
+## FAQ
+**Q: Do I need an API key to use MockInterviewerGPT?**
+A: Yes, you will need a Gemini API key to enable AI-powered features such as interview question generation and feedback analysis. You can obtain an API key by signing up on the Gemini platform.
+
+**Q: What job roles can MockInterviewerGPT simulate?**
+A: MockInterviewerGPT can simulate a variety of job roles and is customizable based on job descriptions and experience levels. Currently, it supports both technical and non-technical roles, with more specific industry support coming soon.
+
+**Q: Is my data secure?**
+A: Absolutely. We prioritize user data security. All information is encrypted and securely stored, and we do not share any personal data with third parties.
